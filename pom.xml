@@ -99,7 +99,7 @@
   </dependencies>
 	
 	
- <distrributionManagment>
+ <distributionManagment>
                  <repository>
                   <id>buv-nexus</id>
                   <name>buvgroups</name>
@@ -110,7 +110,7 @@
                   <name>buvgroups</name>
                   <url>http://localhost:8081/repository/buv-snapshot/</url>
                   </SnapshotRepository>
-   </distrributionManagment>
+   </distributionManagment>
 	
 
    <profiles>
